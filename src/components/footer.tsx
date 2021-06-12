@@ -4,7 +4,7 @@ import { Navbar, Nav } from "react-bootstrap";
 
 const Footer: React.FC = () => (
 	<footer>
-		<Navbar fixed="bottom" className="justify-content-end">
+		<Navbar className="justify-content-end mt-3" bg="light" variant="light">
 			<Nav>
 				<Nav.Item>
 					<Nav.Link eventKey="faq">FAQ</Nav.Link>
