@@ -29,6 +29,7 @@ const Chart: React.FC = () => {
 
 	return (
 		<Bar
+			type="bar"
 			data={state}
 			options={options}
 		/>
