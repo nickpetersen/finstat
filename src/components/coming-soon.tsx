@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, Jumbotron, Button } from "react-bootstrap";
+import { Container, Row, Col, Jumbotron } from "react-bootstrap";
 import Chart from "./chart";
 
 const ComingSoon: React.FC = () => (
